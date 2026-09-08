@@ -12,7 +12,7 @@
 **Colors:** Blue (#0066cc) with white background  
 **Who uses it:** Established brands, Fortune 500 companies  
 
-👉 **[View Light Theme Resume](./resume-light.md)**
+👉 **[View Light Theme Resume](./resume-dark.md)**
 
 ```
 ✅ Easy to read on paper
